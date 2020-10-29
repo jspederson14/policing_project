@@ -1,0 +1,21 @@
+"ATL total: 270373"
+"non-ATL total: 1636398"
+"ATL race data: "
+{"black"=>66103, "NA"=>124985, "hispanic"=>7973, "white"=>64589, "asian/pacific islander"=>3835, "other"=>2887}
+"non ATL race data: "
+{"white"=>596266, "NA"=>773323, "black"=>231053, "hispanic"=>25741, "other"=>5097, "asian/pacific islander"=>4918}
+"ATL gender data: "
+{"male"=>160826, "NA"=>7289, "female"=>102257}
+"non ATL gender data: "
+{"female"=>630288, "NA"=>66944, "male"=>939166}
+
+"CHI total: 436805"
+"non-CHI total: 1435327"
+"CHI race data: "
+{"white"=>178594, "hispanic"=>77341, "asian/pacific islander"=>17632, "black"=>161666, "other"=>1572}
+"non CHI race data: "
+{"white"=>1078461, "black"=>221070, "asian/pacific islander"=>35927, "hispanic"=>96030, "other"=>3839}
+"CHI gender data: "
+{"male"=>318962, "female"=>117843}
+"non CHI gender data: "
+{"male"=>971478, "female"=>463849}
